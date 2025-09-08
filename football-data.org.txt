@@ -1,0 +1,5 @@
+Football Matches Dataset © 2025
+
+Data collected via football-data.org API.
+Licensed under CC0: Public Domain — free for open research and educational use.
+Commercial use is not permitted.
