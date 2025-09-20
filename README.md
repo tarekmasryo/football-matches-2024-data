@@ -99,3 +99,7 @@ print("Home win rate:", round(home_win_rate, 3))
 - Pre-processed and structured by **Tarek Elmasry**  
 - Licensed under **CC BY-NC 4.0 (Attribution–NonCommercial)** → Free for open research & educational use  
 - Commercial use is **not permitted**  
+
+## Related Repositories
+- 🔍 [Football Matches EDA](https://github.com/tarekmasryo/football-matches-eda)
+- 📊 [Football Matches Dashboard](https://github.com/tarekmasryo/football-matches-dashboard)
